@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic|Poiret+One|Raleway|Rokkitt|Vidaloka&display=swap');
+
+body {
+	font-family: 'Raleway', monospace;
+	color: white;
+	background-color: #B15E6C;
+	height: 100vh;
+}
+
+h1 {
+	font-family: 'Vidaloka', cursive;
+	color: #CEC2FF;
+	font-size:55px;
+}
+
+h4 {
+	color: #E56B70;
+	font-size:30px;
+	font-weight: bold;
+}
+
+h3 {
+	font-family: 'Anonymous Pro', monospace;
+	color: #2CA58D;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  border-color: #2CA58D;
+  border-width: 0px 0px 1px 0px;
+  border-style: none none solid none;
+}
+
+a:hover {
+  color: #2CA58D;
+  text-decoration: none;
+  border-color: #2CA58D;
+  border-width: 0px 0px 1px 0px;
+  border-style: none none solid none;
+}
+
+li {
+  color: #84BC9C;
+}
+
+li > span {
+	color: white;
+}
+
+.btn-circle {
+  color: #0A2342;
+  background-color: #2CA58D;
+  border-color: #2CA58D;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+}
