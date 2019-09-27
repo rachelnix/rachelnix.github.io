@@ -3,14 +3,14 @@
 body {
 	font-family: 'Raleway', monospace;
 	color: white;
-	background-color: #5d001e;
+	background-color: #00303f;
 	height: 100vh;
 }
 
 h1 {
-	font-family: 'Martel', cursive;
-	color: #b3bb9f;
-	font-size:55px;
+	font-family: 'Vidaloka', cursive;
+	color: #7a9d9c;
+	font-size:60px;
 }
 
 h4 {
@@ -27,15 +27,15 @@ h3 {
 a {
   color: white;
   text-decoration: none;
-  border-color: #6e86a6;
+  border-color: #dcae1d;
   border-width: 0px 0px 1px 0px;
   border-style: none none solid none;
 }
 
 a:hover {
-  color: #6e86a6;
+  color: #dcae1d;
   text-decoration: none;
-  border-color: #6e86a6;
+  border-color: #dcae1d;
   border-width: 0px 0px 1px 0px;
   border-style: none none solid none;
 }
