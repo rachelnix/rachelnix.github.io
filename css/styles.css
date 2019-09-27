@@ -3,13 +3,13 @@
 body {
 	font-family: 'Raleway', monospace;
 	color: white;
-	background-color: #B15E6C;
+	background-color: #5d001e;
 	height: 100vh;
 }
 
 h1 {
 	font-family: 'Martel', cursive;
-	color: #80c197;
+	color: #b3bb9f;
 	font-size:55px;
 }
 
@@ -21,21 +21,21 @@ h4 {
 
 h3 {
 	font-family: 'Anonymous Pro', monospace;
-	color: #785963;
+	color: #6e86a6;
 }
 
 a {
   color: white;
   text-decoration: none;
-  border-color: #785963;
+  border-color: #6e86a6;
   border-width: 0px 0px 1px 0px;
   border-style: none none solid none;
 }
 
 a:hover {
-  color: #785963;
+  color: #6e86a6;
   text-decoration: none;
-  border-color: #785963;
+  border-color: #6e86a6;
   border-width: 0px 0px 1px 0px;
   border-style: none none solid none;
 }
