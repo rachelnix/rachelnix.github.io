@@ -1,15 +1,15 @@
-@import url('https://fonts.googleapis.com/css?family=Didact+Gothic|Poiret+One|Raleway|Rokkitt|Vidaloka&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bevan|Didact+Gothic|Goblin+One|Martel:900|Poiret+One|Raleway|Rokkitt|Vidaloka&display=swap');
 
 body {
 	font-family: 'Raleway', monospace;
 	color: white;
-	background-color: #5D002A;
+	background-color: #B15E6C;
 	height: 100vh;
 }
 
 h1 {
-	font-family: 'Vidaloka', cursive;
-	color: #B7ECE4;
+	font-family: 'Martel', cursive;
+	color: #80c197;
 	font-size:55px;
 }
 
@@ -21,21 +21,21 @@ h4 {
 
 h3 {
 	font-family: 'Anonymous Pro', monospace;
-	color: #B48EAE;
+	color: #785963;
 }
 
 a {
   color: white;
   text-decoration: none;
-  border-color: #B48EAE;
+  border-color: #785963;
   border-width: 0px 0px 1px 0px;
   border-style: none none solid none;
 }
 
 a:hover {
-  color: #B48EAE;
+  color: #785963;
   text-decoration: none;
-  border-color: #B48EAE;
+  border-color: #785963;
   border-width: 0px 0px 1px 0px;
   border-style: none none solid none;
 }
