@@ -2,7 +2,7 @@
 
 body {
 	font-family: 'Raleway', monospace;
-	color: #00303f;
+	color: #FFFFFF;
 	background-color: #5C6896;
 	height: 100vh;
 }
@@ -33,7 +33,7 @@ a {
 }
 
 a:hover {
-  color: #dcae1d;
+  color: #FDB3CA;
   text-decoration: none;
   border-color: #dcae1d;
   border-width: 0px 0px 1px 0px;
